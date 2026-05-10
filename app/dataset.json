@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Create a Python function that parses an AWS S3 bucket URI (e.g., 's3://my-bucket/path/to/file.txt') and returns a dictionary with keys 'bucket' and 'key'"
+  },
+  {
+    "task": "Write a JSON CloudFormation template snippet that defines an AWS IAM role with a trust relationship allowing EC2 instances to assume the role"
+  },
+  {
+    "task": "Create a regex pattern that matches valid AWS ARN formats (e.g., 'arn:aws:service:region:account-id:resource')"
+  }
+]
