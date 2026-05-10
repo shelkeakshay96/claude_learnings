@@ -1,6 +1,6 @@
-# Hello World
+# Hello Claude
 
-A minimal example project containing hello_world.py.
+A Claude API tutorials
 
 Prerequisites
 - Python 3
