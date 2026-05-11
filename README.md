@@ -36,7 +36,7 @@ Run
 
 Run the script with:
 ```bash
-python hello_world.py
+python app/4_ClaudeChatbot.py
 ```
 
 Notes
