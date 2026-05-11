@@ -36,7 +36,7 @@ Run
 
 Run the script with:
 ```bash
-python app/4_ClaudeChatbot.py
+python3 app/4_ClaudeChatbot.py
 ```
 
 Notes
