@@ -33,6 +33,7 @@ pip install uv
 
 ```bash
 uv venv
+python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
@@ -66,6 +67,7 @@ pip install anthropic python-dotenv prompt-toolkit "mcp[cli]==1.8.0"
 3. Run the project
 
 ```bash
+cd cli_project_COMPLETE
 python main.py
 ```
 
